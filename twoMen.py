@@ -1,5 +1,5 @@
 a = int(input())
 b = int(input())
 
-print(10-a)
-print(10-b)
+print("First men: ", b - 1)
+print("Second men: ", 10-b)
